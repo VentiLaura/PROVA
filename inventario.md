@@ -7,3 +7,6 @@ aggiungo riga1\naggiungo riga2
 aggiungo riga1/naggiungo riga2
 aggiungo riga1 \n aggiungo riga2
 aggiungo riga1 /n aggiungo riga2
+copio tutti i processori  
+processore 1  processore 2
+processore 1 \n processore 2
